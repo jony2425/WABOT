@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Automator SaaS",
+  "description": "A simple multi-user WhatsApp automation platform with QR code connection and rule-based chatbot.",
+  "requestFramePermissions": []
+}
